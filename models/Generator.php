@@ -1,12 +1,12 @@
 <?php
 
-namespace App;
+namespace app\models;
 
-use App\StringHelper;
+use app\helpers\StringHelper;
 
 /**
  * Class Generator
- * @package App
+ * @package app\models
  */
 class Generator
 {

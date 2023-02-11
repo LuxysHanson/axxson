@@ -1,10 +1,10 @@
 <?php
 
-namespace App;
+namespace app\models;
 
 /**
  * Class Tree
- * @package App
+ * @package app\models
  */
 class Tree
 {

@@ -1,13 +1,13 @@
 <?php
 
-use App\Excel;
-use App\Tree;
-use App\Generator;
+use app\models\Excel;
+use app\models\Tree;
+use app\models\Generator;
 
-include 'StringHelper.php';
-include 'Tree.php';
-include 'Generator.php';
-include 'Excel.php';
+require __DIR__. '/helpers/StringHelper.php';
+require __DIR__. '/models/Tree.php';
+require __DIR__. '/models/Generator.php';
+require __DIR__. '/models/Excel.php';
 
 /**
  * Тестовое задание

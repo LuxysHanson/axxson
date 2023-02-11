@@ -1,7 +1,11 @@
 <?php
 
-namespace App;
+namespace app\models;
 
+/**
+ * Class Excel
+ * @package app\models
+ */
 class Excel
 {
 

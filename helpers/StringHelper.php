@@ -1,10 +1,10 @@
 <?php
 
-namespace App;
+namespace app\helpers;
 
 /**
  * Class StringHelper
- * @package App
+ * @package app\helpers
  */
 class StringHelper
 {
